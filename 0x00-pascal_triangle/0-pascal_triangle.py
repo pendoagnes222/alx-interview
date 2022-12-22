@@ -6,7 +6,7 @@ def pascal_triangle(n):
     '''
     returns a list of lists of integers representing the Pascal’s triangle
     arguments
-             n: mumber of pascal triangle a user wants
+             n: number of pascal triangle a user wants
     '''
     lists = []
     if n == 0:
