@@ -8,8 +8,6 @@ Validate UTF-8
 def validUTF8(data):
     """
     data: input list
-    Return: if data is a valid UTF-8 True
-            else False
     """
     n_bytes = 0
 
